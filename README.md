@@ -19,3 +19,4 @@
 ![](https://github.com/ykmeory/Android_SideBar_LetterSort/blob/master/img/img1.png "一")
 ![](https://github.com/ykmeory/Android_SideBar_LetterSort/blob/master/img/img2.png "二")
 ![](https://github.com/ykmeory/Android_SideBar_LetterSort/blob/master/img/img3.png "三")
+![](https://github.com/ykmeory/Android_SideBar_LetterSort/blob/master/img/img4.png "四")
