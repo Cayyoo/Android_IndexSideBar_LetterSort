@@ -36,7 +36,8 @@ import java.util.List;
 /**
  * assets目录下有city.db文件
  *
- * 类似联系人列表搜索功能，通过数据库操作，查询城市
+ * 类似联系人列表搜索功能，通过数据库操作，查询城市。
+ * 列表使用ListView
  */
 public class CitySelMainActivity extends Activity {
 
