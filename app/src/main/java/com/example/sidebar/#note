@@ -1,0 +1,8 @@
+/**
+* 关于xUtils框架出现以下问题的解决方案：
+* 1、无法访问HttpRequestBase 找不到org.apache.http.client.methods.HttpRequestBase的类文件
+* 2、无法访问HttpEntityEnclosingRequest 找不到org.apache.http.HttpEntityEnclosingRequest的类文件
+*
+* 是因为android 6.0(api 23) SDK，Android的网络请求强制使用HttpUrlConnection,并且SDK中也已经移除了HttpClient。
+* 添加相应的jar包即可：libs中加入包org.apache.http.legacy.jar
+ */

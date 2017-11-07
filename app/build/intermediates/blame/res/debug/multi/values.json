@@ -1,0 +1,244 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 40,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 40,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 40,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 40,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 40,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 40,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 39,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 57,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 55,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 45,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 43,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 44,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 47,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 46,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 52,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 55,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 52,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 925
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 930,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

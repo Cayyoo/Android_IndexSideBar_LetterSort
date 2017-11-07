@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="a1f1a1">#a1f1a1</color>
+    <color name="c5f1c5">#c5f1c5</color>
+    <color name="ede0b2">#ede0b2</color>
+    <color name="f29867">#f17f66</color>
+    <color name="f4d962">#f4d962</color>
+    <color name="fa0404">#fa0404</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="text_size_bb">50sp</dimen>
+    <dimen name="text_size_big">16sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SideBar_LetterSort</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+        <item name="android:windowNoTitle">true</item>
+        
+    </style>
+</resources>

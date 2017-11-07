@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\layout\\city_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_show_city_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\layout\\item_show_city_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_default_city_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\layout\\item_default_city_list.xml"
+    }
+]
