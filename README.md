@@ -1,4 +1,4 @@
-# Android_SideBar_LetterSort
+# Android_IndexSideBar_LetterSort
 侧边栏A-Z排序，通过数据库搜索城市
 
 ```java
