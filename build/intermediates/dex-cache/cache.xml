@@ -3,57 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\Android_SideBar_LetterSort\app\libs\org.apache.http.legacy.jar"
+        jar="D:\Git\Android_SideBar_LetterSort\app\libs\org.apache.http.legacy.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
-        <dex dex="C:\Users\Administrator\Desktop\Android_SideBar_LetterSort\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_2901d8d04eae7cf148d46ab509aa9703c4a6d65b.jar" />
+        <dex dex="D:\Git\Android_SideBar_LetterSort\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_7102a596ab15a875701a79e479e5600b026162f5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="C:\Users\Administrator\Desktop\Android_SideBar_LetterSort\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_a27c3f024e51ace21f3d1dd13012f4f9d527fafe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="C:\Users\Administrator\Desktop\Android_SideBar_LetterSort\app\build\intermediates\pre-dexed\debug\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\Android_SideBar_LetterSort\app\libs\xUtils-2.6.14.jar"
+        jar="D:\Git\Android_SideBar_LetterSort\app\libs\xUtils-2.6.14.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
-        <dex dex="C:\Users\Administrator\Desktop\Android_SideBar_LetterSort\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_84d31eccfcbc8f1539ff858b95f15b26f2ea8300.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\504637ce0258543e8190f6f1d597cee889b33a68\output\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="C:\Users\Administrator\Desktop\Android_SideBar_LetterSort\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_eb2453f1d82e821d442e08e9b95d353e5b8f709b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.android\build-cache\504637ce0258543e8190f6f1d597cee889b33a68\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="C:\Users\Administrator\Desktop\Android_SideBar_LetterSort\app\build\intermediates\pre-dexed\debug\classes_78e0c412054966516441da64a21c4a468021e0d2.jar" />
+        <dex dex="D:\Git\Android_SideBar_LetterSort\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_5756c6118dff6810dcbab4ba47434d63f0adcb9d.jar" />
     </item>
 
 </items>

@@ -1,23 +1,19 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d29.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d29.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d04.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d04.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d23.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d23.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d26.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d26.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d29.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d29.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d18.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d18.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d21.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d21.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d06.png",
@@ -28,20 +24,24 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d00.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d03.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d03.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d27.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d27.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d53.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d53.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d01.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d01.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d20.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d20.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_msg_search.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\icon_msg_search.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d12.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d12.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d01.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d01.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d15.png",
@@ -52,56 +52,48 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d31.png"
     },
     {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d26.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d26.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d18.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d18.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_clear_normal.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d07.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d07.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d12.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d12.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d04.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d04.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d53.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d53.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d20.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d20.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d02.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d02.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d05.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d05.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d19.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d19.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_msg_search.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\icon_msg_search.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d30.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d30.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d13.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d13.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d08.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d08.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d27.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d27.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_clear_pressed.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d16.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d16.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d08.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d08.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d24.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d24.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d19.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d19.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d14.png",
@@ -116,12 +108,20 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d17.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d21.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d21.png"
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d16.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d16.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d05.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d05.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d22.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d22.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d13.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d13.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d09.png",
@@ -132,19 +132,167 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d25.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d25.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d10.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d10.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d02.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d02.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d28.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d28.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d07.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d07.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d01.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d01.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d18.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d26.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d26.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d24.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d24.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d03.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d03.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d29.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d29.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_msg_search.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\icon_msg_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d12.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d12.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d04.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d04.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d20.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d20.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d31.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d31.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d15.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d15.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d23.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d23.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d28.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d28.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d02.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d02.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d05.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d05.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d19.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d19.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d22.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d22.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d17.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d17.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d25.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d25.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d00.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d00.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d03.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d03.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d13.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d13.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d06.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d06.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d27.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d27.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d30.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d30.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d16.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d16.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d14.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d14.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d08.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d08.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d11.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d11.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d24.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d24.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d21.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d21.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d09.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d09.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d10.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d10.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_clear_normal.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d25.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d25.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\d28.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-hdpi\\d28.png"
     }
 ]

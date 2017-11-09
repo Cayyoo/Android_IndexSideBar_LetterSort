@@ -4,6 +4,14 @@
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xhdpi\\icon_gray_left_array.png"
     },
     {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ia_add.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xhdpi\\ia_add.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_gray_left_array.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xhdpi\\icon_gray_left_array.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ia_add.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xhdpi\\ia_add.png"
     },
@@ -14,5 +22,13 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

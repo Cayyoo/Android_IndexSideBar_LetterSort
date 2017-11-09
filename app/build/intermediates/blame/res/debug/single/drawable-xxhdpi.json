@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Administrator\\Desktop\\Android_SideBar_LetterSort\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }

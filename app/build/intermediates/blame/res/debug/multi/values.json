@@ -240,5 +240,375 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "D:\\Git\\Android_SideBar_LetterSort\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 40,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 40,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 40,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 40,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 40,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 40,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 40,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 40,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 40,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 40,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 40,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 39,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 39,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 57,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 55,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 45,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 45,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 43,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 43,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 44,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 44,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 47,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 47,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 46,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 46,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 52,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 52,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 55,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 55,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 52,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 52,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "D:\\Git\\Android_SideBar_LetterSort\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 748
+                    }
+                }
+            }
+        ]
     }
 ]
